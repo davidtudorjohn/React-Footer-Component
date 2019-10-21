@@ -1,2 +1,2 @@
 # React-Footer-Component
-This is a React "footer" Component with a Copyright text element and link elements for terms and privacy.
+This is a "footer" React Component with a Copyright text element and link elements for terms and privacy.
